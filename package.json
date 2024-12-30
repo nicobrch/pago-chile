@@ -1,0 +1,28 @@
+{
+  "name": "pago-chile",
+  "version": "1.0.0",
+  "description": "Un SDK de Typescript para pagar con los métodos de pago más populares en Chile.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicobrch/pago-chile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicobrch/pago-chile/issues"
+  },
+  "homepage": "https://github.com/nicobrch/pago-chile#readme",
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "mercadopago": "^2.1.1"
+  }
+}
